@@ -48,6 +48,7 @@
    
 8. 브라우져에서 테스트 해보기
 9. 시스템 프롬프트 분리하기
+   [lambda_handler_last.py](https://github.com/iampizon/rag_translate_sample/blob/main/lambda_handler_last.py) 파일 참고
 
    ```python
    def read_file(file_path):
@@ -70,6 +71,8 @@
    ```
     
 11. 시스템 프롬프트 다듬기
+    [system_prompt_last.py](https://github.com/iampizon/rag_translate_sample/blob/main/system_prompt_last.py) 파일 참고
+
 
 ## 추가 자료
 
