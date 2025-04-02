@@ -23,7 +23,7 @@
 
 1. Lambda 생성
 
-    [lambda_handler_draft.py](https://github.com/iampizon/rag_translate_sample/blob/main/lambda_handler_draft.py) 파일로 새 Lambda 함수를 생성.
+    [lambda_handler_draft.py](https://github.com/iampizon/rag_translate_sample/blob/main/lambda_handler_draft.py) 파일로 새 Lambda 함수를 생성
 
 2. KnowledgeBase ID 변경
   ```python
@@ -32,7 +32,7 @@
   ```
    
 3. Text event 구현 및 테스트
-4. Lambda 실행시간 늘리기 및 Role 추가하기
+4. Lambda 실행시간 늘리기 및 Role 추가
 5. API-Gateway 생성 및 배포
 6. Lamba 함수에 Parameter 추가
    
